@@ -29,61 +29,18 @@ _Software Engineering Student at SUST, Bangladesh_ 🇧🇩
 
 ---
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Meraj2349&color=4A90E2&style=for-the-badge" alt="Profile Views"/>
-</div>
-
-<h3 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=20&pause=1000&color=4A90E2&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Software+Engineering+Student;Problem+Solver;Always+Learning+New+Technologies" alt="Typing SVG" />
-</h3>
-
----
-
-<p align="center">
-  <i>"Building the future, one line of code at a time."</i><br/>
-  <strong>— Md. Meraj Mridha</strong>
-</p> style="color:#4A90E2">Md. Meraj Mridha</span>! 👋</h1>
-
-<p align="center">
-  <strong>Software Engineer & Full Stack Developer</strong><br/>
-  <em>Software Engineering Student at SUST, Bangladesh</em> 🇧🇩<br/>
-  Building innovative solutions with modern web technologies
-</p>
-
-<p align="center">
-  <a href="https://parsonal-portfolio-iqqxyr42g-meraj2349s-projects.vercel.app" target="_blank">
-    <img src="https://img.shields.io/badge/🌐_Portfolio-Live_Demo-4A90E2?style=for-the-badge&logoColor=white" alt="Portfolio"/>
-  </a>
-  <a href="/CV/Md Meraj Mridha-Resume.pdf" target="_blank">
-    <img src="https://img.shields.io/badge/📄_Resume-Download-red?style=for-the-badge&logoColor=white" alt="Resume"/>
-  </a>
-
-<h1 align="center">Hi there, I'm <span style="color:red">Meraj</span>! ❤️</h1>
-
-<p align="center">
-  A passionate <strong>Software Engineering Student</strong> from <em>SUST, Bangladesh</em> <br/>
-  Building impactful solutions like <strong>Farm AI</strong> & <strong>SUST Kroy-Bikroy</strong>
-</p>
-
----
-
-### � About Me
+## 🚀 About Me
 
 - 🎓 **Software Engineering Student** at Shahjalal University of Science & Technology (SUST)
 - 💻 **Full Stack Developer** specializing in JavaScript ecosystem
 - 🌟 **400+ Problems Solved** across various coding platforms
-- � **1500+ LinkedIn Followers** and growing community
-- �🚀 Currently working on:
-  - `Personal Portfolio` – Modern Next.js portfolio with dark/light themes
-  - `Farm AI` – AI-driven crop disease diagnosis platform
-  - `SUST Kroy-Bikroy` – Campus-focused e-commerce marketplace
-- � Passionate about **Web Development**, **AI Integration**, and **User Experience**
+- 💡 Passionate about **Web Development**, **AI Integration**, and **User Experience**
 - 📚 Always learning new technologies and sharing knowledge
 - ⚡ **Fun Fact**: I love coding late at night and solving complex problems!
 
 ---
 
-### 🛠️ Tech Stack & Skills
+## 🛠️ Tech Stack & Skills
 
 #### **Languages**
 
@@ -118,7 +75,7 @@ _Software Engineering Student at SUST, Bangladesh_ 🇧🇩
 
 ---
 
-### 🏆 Featured Projects
+## 🏆 Featured Projects
 
 <table>
 <tr>
@@ -134,7 +91,7 @@ _Software Engineering Student at SUST, Bangladesh_ 🇧🇩
 <td width="50%">
 <h3 align="center">🚜 Farm AI</h3>
 <div align="center">
-<a href="https://github.com/Meraj2349" target="_blank"><img src="https://img.shields.io/badge/�_Repository-red?style=for-the-badge&logoColor=white" alt="Repository"/></a>
+<a href="https://github.com/Meraj2349" target="_blank"><img src="https://img.shields.io/badge/🔗_Repository-red?style=for-the-badge&logoColor=white" alt="Repository"/></a>
 <br><br>
 <p><strong>AI • Python • React</strong></p>
 <p>AI-driven crop disease diagnosis platform helping farmers identify and treat plant diseases.</p>
@@ -165,20 +122,18 @@ _Software Engineering Student at SUST, Bangladesh_ 🇧🇩
 
 ---
 
-### 📊 GitHub Analytics
+## 📊 GitHub Analytics
 
 <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Meraj2349&show_icons=true&theme=tokyonight&hide_border=true" alt="Meraj's GitHub Stats"/>
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Meraj2349&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
 </p>
 
-<p align="center">
-  <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Meraj2349&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
-</p>
+
 
 ---
 
-### 🎯 Current Focus
+## 🎯 Current Focus
 
 - 🔭 **Working on**: Advanced React patterns and Next.js optimization
 - 🌱 **Learning**: AI/ML integration in web applications
@@ -189,14 +144,45 @@ _Software Engineering Student at SUST, Bangladesh_ 🇧🇩
 
 ---
 
-### 🔗 Connect With Me
+## 🌐 Connect With Me
 
 <p align="center">
-  <a href="https://linkedin.com/in/your-link"><img src="https://img.shields.io/badge/LinkedIn-red?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://github.com/Meraj2349"><img src="https://img.shields.io/badge/GitHub-red?style=for-the-badge&logo=github&logoColor=white"/></a>
-  <a href="https://youtube.com/@nexgenprogramming"><img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white"/></a>
+  <a href="https://linkedin.com/in/your-linkedin-profile" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://github.com/Meraj2349" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+  <a href="mailto:mdmerajmridha34@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
+  <a href="https://youtube.com/@nexgenprogramming" target="_blank">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/>
+  </a>
 </p>
+
+<!-- 🌟 PORTFOLIO HIGHLIGHT SECTION 🌟 -->
+<div align="center">
+<h2>🌟 Visit My Live Portfolio 🌟</h2>
+<a href="https://parsonal-portfolio-iqqxyr42g-meraj2349s-projects.vercel.app" target="_blank">
+  <img src="https://img.shields.io/badge/🚀_CLICK_HERE_TO_VIEW_PORTFOLIO-Live_Website-FF6B6B?style=for-the-badge&logoColor=white&labelColor=4ECDC4&color=FF6B6B" alt="Portfolio Website" height="50"/>
+</a>
+<p><em>Full-featured portfolio with projects, skills, experience, and contact form</em></p>
+</div>
 
 ---
 
-> _“Empowering Farmers with AI-driven Agricultural Intelligence”_ — **Farm AI**
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=Meraj2349&color=4A90E2&style=for-the-badge" alt="Profile Views"/>
+</div>
+
+<h3 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=20&pause=1000&color=4A90E2&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Software+Engineering+Student;Problem+Solver;Always+Learning+New+Technologies" alt="Typing SVG" />
+</h3>
+
+---
+
+<p align="center">
+  <i>"Building the future, one line of code at a time."</i><br/>
+  <strong>— Md. Meraj Mridha</strong>
+</p>
