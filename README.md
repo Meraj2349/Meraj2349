@@ -4,9 +4,9 @@
 
 ### Junior Software Engineer @ Deep Mind Labs
 
-Full Stack Developer · Software Engineering Student at SUST, Bangladesh
+Full Stack & Mobile Developer · Software Engineering Student at SUST, Bangladesh
 
-[Portfolio](https://parsonal-portfolio-iqqxyr42g-meraj2349s-projects.vercel.app) · [Resume](https://parsonal-portfolio-iqqxyr42g-meraj2349s-projects.vercel.app/CV/Md%20Meraj%20Mridha-Resume.pdf) · [Email](mailto:mdmerajmridha34@gmail.com)
+[Portfolio](https://merajmridha.xyz) · [Resume](https://merajmridha.xyz/CV/Md%20Meraj%20Mridha-Resume.pdf) · [LinkedIn](https://www.linkedin.com/in/md-meraj-mridha/) · [Email](mailto:mdmerajmridha34@gmail.com)
 
 </div>
 
@@ -14,44 +14,56 @@ Full Stack Developer · Software Engineering Student at SUST, Bangladesh
 
 ### About
 
-Junior Software Engineer at **Deep Mind Labs**, currently pursuing my Software Engineering degree at Shahjalal University of Science & Technology. I build full-stack applications with a focus on clean architecture and thoughtful user experience, working across the JavaScript ecosystem and actively exploring AI integration in web products. 400+ problems solved on competitive programming platforms.
-
-Currently exploring advanced React patterns, Next.js performance, and ML integration in production web apps.
+Junior Software Engineer at **Deep Mind Labs**, currently pursuing my Software Engineering degree at Shahjalal University of Science & Technology. I build complete products across web, Android and backend (.NET and Node.js APIs, Next.js dashboards, Kotlin and Flutter apps, PostgreSQL), working test-first with CI/CD and architecture decision records. I use **Claude Code**, agent skills and MCP every day for AI-assisted development and code review. 400+ problems solved on competitive programming platforms.
 
 ---
 
 ### Experience
 
 **Junior Software Engineer** — Deep Mind Labs *(Present)*
-Building production software as part of the engineering team.
+Building production software as part of the engineering team, with AI-assisted, test-first development.
+
+**Product Engineer** — Independent SaaS products *(2026 – Present)*
+Designing and shipping full platforms for the Bangladesh market with bKash/Nagad/SSLCommerz payments and Bangla/English UIs.
+
+**Leadership** — Vice President, Chokh Film Society · General Secretary, Tangail Students' Association of SUST · Campus Ambassador, UIHP
 
 ---
 
 ### Tech Stack
 
-**Languages** — JavaScript · TypeScript · Python · C++ · Java
+**Languages** — TypeScript · JavaScript · C# · Kotlin · Dart · Python · Java · C++
 
-**Frontend** — React · Next.js · Tailwind CSS · HTML · CSS
+**Backend** — .NET / ASP.NET Core · EF Core · SignalR · Node.js · Express · NestJS · Prisma · Spring Boot
 
-**Backend** — Node.js · Express · MongoDB · MySQL · Firebase
+**Frontend & Mobile** — React · Next.js · Tailwind CSS · Jetpack Compose · Flutter · Expo
 
-**Tools** — Git · GitHub · Vercel · VS Code
+**Databases** — PostgreSQL (PostGIS, RLS) · MySQL · MongoDB · Redis · Firebase
+
+**DevOps & Cloud** — Docker · GitHub Actions · Terraform · AWS · Google Cloud · Vercel
+
+**AI & Claude** — Claude Code · Claude API · Agent Skills · MCP · CLAUDE.md workflows · Prompt engineering · Gemini API
 
 ---
 
-### Selected Projects
+### Recent Projects
 
-**Personal Portfolio** — Next.js, TypeScript, Tailwind CSS
-Responsive portfolio site with dark/light themes and contact form.
-[Live](https://parsonal-portfolio-iqqxyr42g-meraj2349s-projects.vercel.app)
+**FarmAI Platform** — .NET 10, PostgreSQL, Next.js, Kotlin, Gemini
+AI crop disease diagnosis that builds a basket of real, priced treatments, with a marketplace, expert consultations and a farmer Android app.
 
-**Farm AI** — Python, React, ML
-AI-driven crop disease diagnosis tool for farmers.
-[Repository](https://github.com/Meraj2349)
+**SOS Emergency Bangladesh** — .NET 8, SignalR, PostGIS, Next.js, Kotlin
+One-tap SOS platform connecting citizens with mechanics, ambulances and fire services, with live location, chat and bilingual web + Android apps.
 
-**SUST Kroy-Bikroy** — MERN Stack
-Campus marketplace built for SUST students and faculty.
-[Repository](https://github.com/Meraj2349)
+**Turf Booking SaaS** — .NET 10, PostgreSQL, Redis, Next.js, Expo
+Multi-tenant booking platform with row-level security and a database-level guard against double-booking.
+
+**Sebika** — Kotlin, Node.js, PostgreSQL, Terraform
+Bangla-first medicine reminder that reads prescriptions with AI.
+
+**Taka Tracker** — Flutter, NestJS, Prisma, PostgreSQL
+Cross-platform money tracker with offline sync, subscriptions and verified online payments.
+
+**Personal Portfolio** — Next.js, TypeScript, Tailwind CSS · [Live](https://merajmridha.xyz) · [Repository](https://github.com/Meraj2349/parsonal-portfolio)
 
 ---
 
@@ -66,4 +78,4 @@ Campus marketplace built for SUST students and faculty.
 
 ### Connect
 
-[LinkedIn](https://linkedin.com/in/your-linkedin-profile) · [GitHub](https://github.com/Meraj2349) · [YouTube](https://youtube.com/@nexgenprogramming) · mdmerajmridha34@gmail.com
+[LinkedIn](https://www.linkedin.com/in/md-meraj-mridha/) · [GitHub](https://github.com/Meraj2349) · [YouTube](https://youtube.com/@nexgenprogramming) · [Codeforces](https://codeforces.com/profile/merajislam2349) · [LeetCode](https://leetcode.com/u/merajislam2349/) · mdmerajmridha34@gmail.com
