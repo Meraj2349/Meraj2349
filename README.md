@@ -26,6 +26,12 @@ DMHAI – Healthcare Patient Assessment App · Kotlin, Jetpack Compose, MVVM, Hi
 - Built on-device pose detection with ML Kit that measures joint angles live and records exercises only when the patient is fully in frame.
 - Designed MVVM + Repository architecture with dynamic tenant routing, JWT refresh and offline media caching.
 
+**Frontend Developer** — Deep Mind Labs *(Apr 2026 – May 2026)*
+UVP (Universal Visa Processing) · Next.js 16, React 19, TypeScript, Redux Toolkit, TanStack Query, Tailwind CSS, Stripe, OAuth 2.0, Docker
+- Built the customer web app where people apply for visas and background checks, with a Backend-for-Frontend on Next.js API routes (OAuth, tenant and bearer-token headers).
+- Built the sign-in flow (email OTP, password reset, token refresh), a multi-step application wizard with document upload, and the customer order dashboard.
+- Set up Docker for development and production and moved the codebase to a feature-based structure.
+
 **Product Engineer** — Independent SaaS products *(2026 – Present)*
 Designing and shipping full platforms for the Bangladesh market with bKash/Nagad/SSLCommerz payments and Bangla/English UIs.
 
@@ -39,7 +45,7 @@ Designing and shipping full platforms for the Bangladesh market with bKash/Nagad
 
 **Backend** — .NET / ASP.NET Core · EF Core · SignalR · Node.js · Express · NestJS · Prisma · Spring Boot
 
-**Frontend & Mobile** — React · Next.js · Tailwind CSS · Jetpack Compose · MVVM · Hilt · Room · CameraX · ML Kit · Flutter · Expo
+**Frontend & Mobile** — React · Next.js · Redux Toolkit · TanStack Query · Tailwind CSS · Framer Motion · Jetpack Compose · MVVM · Hilt · Room · CameraX · ML Kit · Flutter · Expo
 
 **Databases** — PostgreSQL (PostGIS, RLS) · MySQL · MongoDB · Redis · Firebase
 
@@ -53,6 +59,9 @@ Designing and shipping full platforms for the Bangladesh market with bKash/Nagad
 
 **DMHAI – Healthcare Patient Assessment App** (Deep Mind Labs) — Kotlin, Jetpack Compose, CameraX, ML Kit
 Multi-tenant Android app for patient intake and guided movement assessments with live on-device pose detection.
+
+**UVP – Universal Visa Processing** (Deep Mind Labs) — Next.js 16, React 19, TypeScript, Stripe
+Customer web app for online visa and background-check applications, with a multi-step wizard and order dashboard.
 
 **FarmAI Platform** — .NET 10, PostgreSQL, Next.js, Kotlin, Gemini
 AI crop disease diagnosis that builds a basket of real, priced treatments, with a marketplace, expert consultations and a farmer Android app.
